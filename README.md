@@ -5,6 +5,11 @@
 **Instructor:** Dr. Yaren Bilge Kaya  
 
 ---
+## Abstract
+
+Child care is a critical component of economic infrastructure, yet over half of U.S. communities are classified as “child care deserts,” lacking sufficient licensed capacity to meet demand. This project develops a data-driven mixed-integer optimization model in Gurobi to estimate the minimum total investment required to eliminate child care deserts across New York State. Using ZIP code–level demographic, employment, and facility data, the model determines the optimal combination of expanding existing centers and constructing new facilities while satisfying policy coverage targets for children under age five. The “idealistic” model incorporates economies of scale and flexible expansion limits, yielding a minimum statewide funding estimate of $357.3 million. A second, more “realistic” model introduces convex expansion costs, strict capacity caps, and geographic spacing constraints to reflect real-world planning challenges. Comparative analysis shows a strategic shift from expansion-heavy to construction-heavy investment under the realistic assumptions, particularly in dense urban areas such as New York City and Long Island. The results offer a scalable, policy-consistent framework for state-level planning to close the child care accessibility gap while minimizing public expenditure.
+
+---
 
 ## 1 Introduction
 
